@@ -1,1 +1,3 @@
 # ProgrammingMethodsSWSUVorobyev
+
+# Course data
